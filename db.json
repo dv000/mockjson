@@ -1,0 +1,42 @@
+{
+    "customer": {
+        "customerId": "ddff3",
+        "taxId": "000-111-007",
+        "customerType": "CORP",
+        "fullName": "Corecords",
+        "credibilityScore": 2
+    },
+    "requestedProducts": [
+        {
+            "productId": "001",
+            "productName": "Seat Ibiza",
+            "productCategory": "",
+            "amount": 30000,
+            "duration": 2,
+            "interestAmount": 0,
+            "commissionAmount": 0
+        },
+        {
+            "productId": "003",
+            "productName": "Nissan Micra",
+            "productCategory": "",
+            "amount": 20000,
+            "duration": 2,
+            "interestAmount": 0,
+            "commissionAmount": 0
+        }
+    ],
+    "originatorFullName": "Relationship Manager 05",
+    "originatorBusinessUnit": "U1",
+    "isInitialized": true,
+    "isOriginatorSeniorRelManager": true,
+    "totalAmount": 50000,
+    "status": "Application Prepared",
+    "approvalExpiration": 0,
+    "ecmCaseFolder": "/Demo/2072.5707",
+    "newCustomerCredibilityScore": 0,
+    "assignedCreditAnalyst": "ddtest /dd test 01",
+    "authorizationLevel": "Low",
+    "approvalCommitteeLevel": "Low",
+    "approvalCommitteeEscalated": false
+}
